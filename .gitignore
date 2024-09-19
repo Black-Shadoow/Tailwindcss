@@ -1,0 +1,35 @@
+
+# Node modules
+node_modules/
+
+# Tailwind CSS generated files (if applicable)
+public/css/*.css
+dist/css/*.css
+build/css/*.css
+
+# If using PostCSS
+public/css/*.css.map
+dist/css/*.css.map
+build/css/*.css.map
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*.DS_Store
+
+# Lock files (depending on your package manager)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# VSCode settings (optional)
+.vscode/
+
+# MacOS Finder files
+.DS_Store
+
+# IDE specific folders (optional)
+.idea/
